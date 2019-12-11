@@ -1,0 +1,22 @@
+/* 
+  KKViewer.strings
+  KKViewer
+
+  Created by 王铁山 on 2018/5/11.
+  Copyright © 2018年 king. All rights reserved.
+*/
+
+
+"CreateDirectory" = "Create Directory";
+
+"CreateDirectoryPlaceHolder" = "please input directory name";
+
+"Create" = "Create";
+
+"Cancel" = "Close";
+
+"Hint" = "Hint";
+
+"Know" = "Know";
+
+"ShareHint" = "In sharing interface, click the 'More' button, share to Wechat or QQ or others.";

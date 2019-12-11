@@ -1,0 +1,21 @@
+/* 
+  KKViewer.strings
+  KKViewer
+
+  Created by 王铁山 on 2018/5/11.
+  Copyright © 2018年 king. All rights reserved.
+*/
+
+"CreateDirectory" = "创建文件夹";
+
+"CreateDirectoryPlaceHolder" = "请输入文件夹名称";
+
+"Create" = "创建";
+
+"Cancel" = "关闭";
+
+"Hint" = "提示";
+
+"Know" = "知道了";
+
+"ShareHint" = "在分享界面点击 \"更多\" 可以添加分享到微信、QQ等（小文件）";
